@@ -5,9 +5,9 @@ import base64
 # ============================================================
 # FILL THESE IN BEFORE RUNNING
 # ============================================================
-GITHUB_TOKEN = "ghp_your_token_here"   # your GitHub personal access token
-OWNER        = "your_github_username"  # e.g. "Subhitcha04"
-REPO         = "code-review-demo"      # repo name you will create
+GITHUB_TOKEN = "ghp_xxxxxxxxxxxx"   # paste your token
+OWNER        = "Subhitcha04"        # your GitHub username
+REPO         = "code-review-demo"   # any repo name you want
 # ============================================================
 
 HEADERS = {
